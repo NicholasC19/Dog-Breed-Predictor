@@ -7,7 +7,7 @@ This project is a deep learning model that predicts dog breeds from images using
 - Classifies 120 different dog breeds.
 - Uses transfer learning with MobileNetV2.
 - Provides top 3 breed predictions with confidence scores.
-
+- Jupyter notebook for local prediction and testing.
 
 ## How to Use
 
