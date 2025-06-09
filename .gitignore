@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter and Colab notebooks
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Model files and large data (optional)
+*.h5
+*.ckpt
+*.tar
+*.zip
+
+# VSCode settings
+.vscode/
+
+# Google Colab files
+*.pbtxt
